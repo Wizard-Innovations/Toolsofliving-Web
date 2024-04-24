@@ -1,0 +1,32 @@
+[13-Mar-2024 18:48:17 UTC] PHP Warning:  require(/home/cg8amjk11jto/public_html/toolsofliving.com/vendor/composer/../../app/Helpers/functions.php): Failed to open stream: No such file or directory in /home/cg8amjk11jto/public_html/toolsofliving.com/vendor/composer/autoload_real.php on line 55
+[13-Mar-2024 18:48:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cg8amjk11jto/public_html/toolsofliving.com/vendor/composer/../../app/Helpers/functions.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cg8amjk11jto/public_html/toolsofliving.com/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/cg8amjk11jto/public_html/toolsofliving.com/vendor/composer/autoload_real.php(38): composerRequire555de3783a8e312dfdf05745f200beab()
+#1 /home/cg8amjk11jto/public_html/toolsofliving.com/vendor/autoload.php(12): ComposerAutoloaderInit555de3783a8e312dfdf05745f200beab::getLoader()
+#2 /home/cg8amjk11jto/public_html/toolsofliving.com/public/index.php(34): require('/home/cg8amjk11...')
+#3 {main}
+  thrown in /home/cg8amjk11jto/public_html/toolsofliving.com/vendor/composer/autoload_real.php on line 55
+[13-Mar-2024 18:48:19 UTC] PHP Warning:  require(/home/cg8amjk11jto/public_html/toolsofliving.com/vendor/composer/../../app/Helpers/functions.php): Failed to open stream: No such file or directory in /home/cg8amjk11jto/public_html/toolsofliving.com/vendor/composer/autoload_real.php on line 55
+[13-Mar-2024 18:48:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cg8amjk11jto/public_html/toolsofliving.com/vendor/composer/../../app/Helpers/functions.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cg8amjk11jto/public_html/toolsofliving.com/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/cg8amjk11jto/public_html/toolsofliving.com/vendor/composer/autoload_real.php(38): composerRequire555de3783a8e312dfdf05745f200beab()
+#1 /home/cg8amjk11jto/public_html/toolsofliving.com/vendor/autoload.php(12): ComposerAutoloaderInit555de3783a8e312dfdf05745f200beab::getLoader()
+#2 /home/cg8amjk11jto/public_html/toolsofliving.com/public/index.php(34): require('/home/cg8amjk11...')
+#3 {main}
+  thrown in /home/cg8amjk11jto/public_html/toolsofliving.com/vendor/composer/autoload_real.php on line 55
+[13-Mar-2024 18:48:27 UTC] PHP Warning:  require(/home/cg8amjk11jto/public_html/toolsofliving.com/vendor/composer/../../app/Helpers/functions.php): Failed to open stream: No such file or directory in /home/cg8amjk11jto/public_html/toolsofliving.com/vendor/composer/autoload_real.php on line 55
+[13-Mar-2024 18:48:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cg8amjk11jto/public_html/toolsofliving.com/vendor/composer/../../app/Helpers/functions.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cg8amjk11jto/public_html/toolsofliving.com/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/cg8amjk11jto/public_html/toolsofliving.com/vendor/composer/autoload_real.php(38): composerRequire555de3783a8e312dfdf05745f200beab()
+#1 /home/cg8amjk11jto/public_html/toolsofliving.com/vendor/autoload.php(12): ComposerAutoloaderInit555de3783a8e312dfdf05745f200beab::getLoader()
+#2 /home/cg8amjk11jto/public_html/toolsofliving.com/public/index.php(34): require('/home/cg8amjk11...')
+#3 {main}
+  thrown in /home/cg8amjk11jto/public_html/toolsofliving.com/vendor/composer/autoload_real.php on line 55
+[13-Mar-2024 18:49:44 UTC] PHP Warning:  require(/home/cg8amjk11jto/public_html/toolsofliving.com/vendor/composer/../../app/Helpers/functions.php): Failed to open stream: No such file or directory in /home/cg8amjk11jto/public_html/toolsofliving.com/vendor/composer/autoload_real.php on line 55
+[13-Mar-2024 18:49:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cg8amjk11jto/public_html/toolsofliving.com/vendor/composer/../../app/Helpers/functions.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cg8amjk11jto/public_html/toolsofliving.com/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/cg8amjk11jto/public_html/toolsofliving.com/vendor/composer/autoload_real.php(38): composerRequire555de3783a8e312dfdf05745f200beab()
+#1 /home/cg8amjk11jto/public_html/toolsofliving.com/vendor/autoload.php(12): ComposerAutoloaderInit555de3783a8e312dfdf05745f200beab::getLoader()
+#2 /home/cg8amjk11jto/public_html/toolsofliving.com/public/index.php(34): require('/home/cg8amjk11...')
+#3 {main}
+  thrown in /home/cg8amjk11jto/public_html/toolsofliving.com/vendor/composer/autoload_real.php on line 55
